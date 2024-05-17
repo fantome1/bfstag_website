@@ -29,18 +29,6 @@
         <!-- Preloader -->
         <div class="preloader"></div>
         <!-- End Preloader -->
-        <!-- Header Style One -->
-        <header class="main-header">
-
-            <!-- Header Top -->
-            <div class="header-top">
-                <div class="auto-container">
-                    <div class="inner-container clearfix" style="height: 50px;">
-                    </div>
-                </div>
-            </div>
-        </header>
-        <!-- End Main Header -->
 
         <!-- Contact Form Section -->
         <section class="contact-form-section">

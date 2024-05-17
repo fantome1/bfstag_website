@@ -30,18 +30,6 @@
         <div class="preloader"></div>
         <!-- End Preloader -->
 
-        <header class="main-header">
-
-            <!-- Header Top -->
-            <div class="header-top">
-                <div class="auto-container">
-                    <div class="inner-container clearfix" style="height: 50px;">
-                    </div>
-                </div>
-            </div>
-        </header>
-        <!-- End Main Header -->
-
         <section class="contact-form-section">
             <div class="auto-container">
                 <!-- Form Column -->

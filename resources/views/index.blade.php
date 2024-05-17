@@ -29,20 +29,6 @@
         <div class="preloader"></div>
         <!-- End Preloader -->
 
-        <!-- Header Style One -->
-        <header class="main-header">
-
-            <!-- Header Top -->
-            <div class="header-top">
-                <div class="auto-container">
-                    <div class="inner-container clearfix" style="height: 50px;">
-                    </div>
-                </div>
-            </div>
-        </header>
-        <!-- End Main Header -->
-
-
         <!-- About Section -->
         <section class="services-section">
             <div class="auto-container">
@@ -62,8 +48,8 @@
                         <div class="inner-column">
                             <div class="sec-title">
                                 <div class="title">En construction</div>
-                                <h2>En cours de maintenance</h2>
-                                <div class="text">Le site est en cours de maintenance. Nos services seront disponibles très bientôt. En attendant vous pouvez nous réjoindre afin de rester informé de tout changement.</div>
+                                <h2>Site en construction</h2>
+                                <div class="text">Le site est en construction. Nos services seront disponibles très bientôt. En attendant vous pouvez nous réjoindre afin de rester informé de tout changement.</div>
                             </div>
                             <a href="{{ route('auth.join-us') }}" class="theme-btn btn-style-one"><span class="txt">Nous réjoindre</span></a>
                         </div>
