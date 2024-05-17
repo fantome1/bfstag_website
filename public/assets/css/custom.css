@@ -45,3 +45,10 @@
     font-size: 1rem;
     font-weight: 600;
 }
+
+@media (max-width: 768px) {
+    .logo-img-responsive {
+        max-width: 50%;
+        height: auto;
+    }
+}

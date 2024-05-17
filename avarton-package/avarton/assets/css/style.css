@@ -1,6 +1,6 @@
 /* Avarton HTML Template */
 
-/*** 
+/***
 
 ====================================================================
 	Attachment Css Files
@@ -20,7 +20,7 @@
 @import url('jquery.fancybox.min.css');
 @import url('jquery.mCustomScrollbar.min.css');
 
-/*** 
+/***
 
 ====================================================================
 	Main Slider Section
@@ -38,7 +38,7 @@
 }
 
 .main-slider .tp-dottedoverlay{
-	background:none !important;	
+	background:none !important;
 }
 
 .main-slider .title{
@@ -63,10 +63,10 @@
 
 .main-slider .tp-bannertimer,
 .main-slider .tp-bullets{
-	display:none !important;	
+	display:none !important;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Main Slider Two
@@ -107,7 +107,7 @@
 }
 
 .main-slider-two .tp-dottedoverlay{
-	background:none !important;	
+	background:none !important;
 }
 
 .main-slider-two .title{
@@ -132,10 +132,10 @@
 
 .main-slider-two .tp-bannertimer,
 .main-slider-two .tp-bullets{
-	display:none !important;	
+	display:none !important;
 }
 
-/*** 
+/***
 
 ====================================================================
 	About Section
@@ -207,7 +207,7 @@
 
 .option-list li{
 	position:relative;
-	font-weight:700; 
+	font-weight:700;
 	line-height:1.5em;
 	display:inline-block;
 	color:var(--dark-color);
@@ -299,7 +299,7 @@
 	top:5px;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Services Section
@@ -416,7 +416,7 @@
 	color:var(--main-color);
 }
 
-/*** 
+/***
 
 ====================================================================
 	Course Section
@@ -778,7 +778,7 @@
     position: absolute;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Process Section
@@ -925,7 +925,7 @@
 	color:var(--color-eleven);
 }
 
-/*** 
+/***
 
 ====================================================================
 	Course Section Two
@@ -1030,7 +1030,7 @@
 	color:var(--color-sixteen);
 }
 
-/*** 
+/***
 
 ====================================================================
 	Clients Section
@@ -1103,7 +1103,7 @@
 	border-left:1px solid #e1e1e1;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Testimonial Section
@@ -1211,7 +1211,7 @@
 	color:var(--text-color);
 }
 
-/*** 
+/***
 
 ====================================================================
 	News Section
@@ -1358,13 +1358,13 @@
 	right:0px;
 	bottom:0px;
 	background-size:cover;
-	
+
 	 transition: all 900ms ease;
     -moz-transition: all 900ms ease;
     -webkit-transition: all 900ms ease;
     -ms-transition: all 900ms ease;
     -o-transition: all 900ms ease;
-	
+
 	transition: -webkit-transform 0.4s ease;
 	transition: transform 0.4s ease;
 	transition: transform 0.4s ease, -webkit-transform 0.4s ease;
@@ -1396,7 +1396,7 @@
 	transform-origin: left center;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Page Title Section
@@ -1474,7 +1474,7 @@
 	font-weight:400;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Experiance Section
@@ -1584,7 +1584,7 @@
 	font-size:var(--font-14);
 }
 
-/*** 
+/***
 
 ====================================================================
 	History Section
@@ -1717,7 +1717,7 @@
 	background-color:var(--main-color);
 }
 
-/*** 
+/***
 
 ====================================================================
 	Skill Section
@@ -1847,7 +1847,7 @@
 	padding:var(--padding-zero);
 }
 
-/*** 
+/***
 
 ====================================================================
 	Sponsors Section
@@ -1917,7 +1917,7 @@
 	filter: grayscale(100%);
 }
 
-/*** 
+/***
 
 ====================================================================
 	Clients Section
@@ -2012,7 +2012,7 @@
 	background-color:var(--main-color);
 }
 
-/*** 
+/***
 
 ====================================================================
 	Sidebar Page Container
@@ -2176,7 +2176,7 @@
 	font-family: "flaticon";
 }
 
-/*** 
+/***
 
 ====================================================================
 	Course Detail Banner Section
@@ -2263,7 +2263,7 @@
 	margin-left:5px;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Course Detail Section
@@ -2517,7 +2517,7 @@
 	color:var(--dark-color);
 }
 
-/*** 
+/***
 
 ====================================================================
 	Course Detail
@@ -2560,7 +2560,7 @@
 
 .course-tabs .tab-btns .tab-btn:hover,
 .course-tabs .tab-btns .tab-btn.active-btn{
-	
+
 }
 
 .course-tabs .tabs-content{
@@ -2575,7 +2575,7 @@
 }
 
 .course-tabs .tabs-content .tab.active-tab{
-	display:block;	
+	display:block;
 }
 
 .course-tabs .tabs-content p{
@@ -2687,7 +2687,7 @@
 	top:0px;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Accordion Style
@@ -2795,7 +2795,7 @@
 }
 
 .accordion-box .block .acc-content.current{
-	display:block;	
+	display:block;
 }
 
 .accordion-box .block .content{
@@ -2985,7 +2985,7 @@
 	font-family:var(--font-family-gilroy);
 }
 
-/*** 
+/***
 
 ====================================================================
 	Comments Area
@@ -3030,7 +3030,7 @@
 }
 
 .course-detail-section .comments-area .reply-comment{
-	margin-left:100px;	
+	margin-left:100px;
 }
 
 .course-detail-section .comments-area .comment-box .author-thumb{
@@ -3157,7 +3157,7 @@
 	font-family: 'FontAwesome';
 }
 
-/*** 
+/***
 
 ====================================================================
 	Courses Page Section
@@ -3191,7 +3191,7 @@
 
 .order-search-box .form-group{
 	position:relative;
-	margin:0px;	
+	margin:0px;
 }
 
 .order-search-box .form-group input[type="text"],
@@ -3242,7 +3242,7 @@
 	background-color:var(--main-color-two);
 }
 
-/*** 
+/***
 
 ====================================================================
 	Faq Page Section
@@ -3298,10 +3298,10 @@
 
 .faq-page-section .filters .filter.active,
 .faq-page-section .filters .filter:hover{
-    
+
 }
 
-/*** 
+/***
 
 ====================================================================
 	Services Page Section
@@ -3628,7 +3628,7 @@
 	margin-top:var(--margin-top-5);
 }
 
-/*** 
+/***
 
 ====================================================================
 	Portfolio Page Section
@@ -3793,7 +3793,7 @@
 	display:none;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Portfolio Detail Section
@@ -3813,7 +3813,7 @@
 }
 
 .portfolio-detail-section h3{
-	
+
 }
 
 .portfolio-detail-section p{
@@ -4062,7 +4062,7 @@
 	background-color:var(--color-five);
 }
 
-/*** 
+/***
 
 ====================================================================
 	Price Page Section
@@ -4184,7 +4184,7 @@
 	background-color:var(--color-six);
 }
 
-/*** 
+/***
 
 ====================================================================
 	Subscribe Section
@@ -4790,7 +4790,7 @@
 	bottom:0px;
 	padding:20px 35px;
 	font-weight:700;
-	font-size:var(--font-18); 
+	font-size:var(--font-18);
 	color:var(--dark-color);
 	background-color:var(--color-twelve);
 	font-family:var(--font-family-gilroy);
@@ -5045,7 +5045,7 @@
 	color:var(--dark-color);
 }
 
-/*** 
+/***
 
 ====================================================================
 	Styled Pagination
@@ -5384,7 +5384,7 @@
 	margin-top:var(--margin-top-15);
 }
 
-/*** 
+/***
 
 ====================================================================
 	Comments Area
@@ -5506,7 +5506,7 @@
 	background-color:var(--main-color);
 }
 
-/*** 
+/***
 
 ====================================================================
 	Comment Form
@@ -5589,7 +5589,7 @@
 	transition:all 300ms ease;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Banner Section
@@ -5693,7 +5693,7 @@
 	display:block;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Choose Section
@@ -5817,7 +5817,7 @@
 	top:0px;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Sponsors Section Two
@@ -5869,7 +5869,7 @@
 	filter: grayscale(100%);
 }
 
-/*** 
+/***
 
 ====================================================================
 	Courses Section
@@ -6022,8 +6022,8 @@
 	position:absolute;
 	left:35px;
 	top:-10px;
-}	
-	
+}
+
 .cta-section .inner-container{
 	position:relative;
 	padding:40px 60px 40px 360px;
@@ -6058,7 +6058,7 @@
 	font-family: 'Playfair Display', serif;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Education Section
@@ -6099,7 +6099,7 @@
 	position:relative;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Product Tabs Style
@@ -6108,7 +6108,7 @@
 ***/
 
 .education-tabs{
-	position:relative;	
+	position:relative;
 }
 
 .education-tabs .tab-btns{
@@ -6177,7 +6177,7 @@
 }
 
 .education-tabs .tabs-content .tab.active-tab{
-	display:block;	
+	display:block;
 }
 
 .education-tabs .check-list{
@@ -6200,7 +6200,7 @@
 	font-family: 'FontAwesome';
 }
 
-/*** 
+/***
 
 ====================================================================
 	Category Section
@@ -6294,7 +6294,7 @@
 	font-size:var(--font-14);
 }
 
-/*** 
+/***
 
 ====================================================================
 	Testimonial Section Two
@@ -6355,7 +6355,7 @@
 	position:relative;
 	width:calc(100% - 90px);
 	/*  padding-left:var(--padding-left-90);  */
-	
+
 	--cb-space-x-reverse: 0;
     margin-right: calc(10px * var(--cb-space-x-reverse));
     margin-left: calc(10px * calc(1 - var(--cb-space-x-reverse)));
@@ -6370,7 +6370,7 @@
 
 .testimonial-block-two .inner-box .author-image img{
 	position:relative;
-	
+
     -o-object-fit: cover;
     object-fit: cover;
     -webkit-transition: all 0.35s cubic-bezier(0.4, 0, 0.2, 1);
@@ -6402,7 +6402,7 @@
 	font-weight:700;
 }
 
-/*** 
+/***
 
 ====================================================================
 	News Section
@@ -6564,7 +6564,7 @@
 	background-color:var(--color-nineteen);
 }
 
-/*** 
+/***
 
 ====================================================================
 	Services Section Two
@@ -6587,7 +6587,7 @@
 	position:relative;
 	margin-bottom:var(--margin-bottom-30);
 }
-	
+
 .service-block-two .inner-box{
 	position:relative;
 	border-radius:5px;
@@ -6681,7 +6681,7 @@
 	color:var(--white-color);
 }
 
-/*** 
+/***
 
 ====================================================================
 	Podcast Section
@@ -6696,7 +6696,7 @@
 
 
 
-/*** 
+/***
 
 ====================================================================
 	Popular Courses Section
@@ -6883,7 +6883,7 @@
     position: absolute;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Events Section
@@ -7006,7 +7006,7 @@
 	position:relative;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Counter Section
@@ -7174,7 +7174,7 @@
 	top:0px;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Accordion Section
@@ -7217,7 +7217,7 @@
 	padding-top:var(--padding-top-40);
 }
 
-/*** 
+/***
 
 ====================================================================
 	News Section Three

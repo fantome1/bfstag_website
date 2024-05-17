@@ -3,9 +3,15 @@
 use App\Http\Controllers\JoinUsController;
 use Illuminate\Support\Facades\Route;
 
+
+Route::fallback(function () {
+    return redirect()->route('index');
+});
+
+
 Route::get('/', function () {
     return view('index');
-});
+})->name('index');
 
 
 Route::get('/join-us',[JoinUsController::class, 'show'])->name('auth.join-us');
